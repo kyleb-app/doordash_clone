@@ -1,3 +1,3 @@
-# doordash_clone
+# Doordash Clone
 
-A Door Dash clone written in Flutter
+This is an example project, frontend code only, written in Flutter. It is used solely for my portfolio and to demonstrate my abilities.
