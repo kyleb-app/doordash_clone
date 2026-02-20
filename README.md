@@ -30,7 +30,7 @@ The app replicates the DoorDash home screen, including:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/doordash_clone.git
+git clone https://github.com/kylebessemer/doordash_clone.git
 cd doordash_clone
 flutter pub get
 flutter run
